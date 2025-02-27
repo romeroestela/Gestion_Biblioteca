@@ -24,5 +24,8 @@ class BooksTableSeders extends Seeder
             'title' => 'Cien años de soledad',
             'published_year' => 1967,
         ]);
+        
+
+        
     }
 }
